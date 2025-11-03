@@ -15,8 +15,8 @@ dependencies:
     specifier: ^9.0.0
     version: 9.0.0
   '@azure/identity':
-    specifier: ^4.2.1
-    version: 4.2.1
+    specifier: ^4.3.0
+    version: 4.3.0
   '@azure/msal-node':
     specifier: 2.6.6
     version: 2.6.6
@@ -441,8 +441,8 @@ packages:
       - supports-color
     dev: true
 
-  /@azure/identity@4.2.1:
-    resolution: {integrity: sha512-U8hsyC9YPcEIzoaObJlRDvp7KiF0MGS7xcWbyJSVvXRkC/HXo1f0oYeBYmEvVgRfacw7GHf6D6yAoh9JHz6A5Q==}
+  /@azure/identity@4.3.0:
+    resolution: {integrity: sha512-LHZ58/RsIpIWa4hrrE2YuJ/vzG1Jv9f774RfTTAVDZDriubvJ0/S5u4pnw4akJDlS0TiJb6VMphmVUFsWmgodQ==}
     engines: {node: '>=18.0.0'}
     dependencies:
       '@azure/abort-controller': 1.1.0
@@ -1373,7 +1373,7 @@ packages:
     engines: {node: '>= 16'}
     hasBin: true
     dependencies:
-      '@azure/identity': 4.2.1
+      '@azure/identity': 4.3.0
       '@vscode/vsce-sign': 2.0.5
       azure-devops-node-api: 12.5.0
       chalk: 2.4.2
@@ -5870,7 +5870,7 @@ packages:
     engines: {node: '>=18'}
     dependencies:
       '@azure/core-auth': 1.10.1
-      '@azure/identity': 4.2.1
+      '@azure/identity': 4.3.0
       '@azure/keyvault-keys': 4.9.0
       '@js-joda/core': 5.6.4
       '@types/node': 22.13.5

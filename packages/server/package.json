@@ -89,7 +89,7 @@
     "umd-compat-loader": "^2.1.2",
     "url-loader": "^4.1.1",
     "uuid": "^8.3.2",
-    "webpack": "^5.94.0",
+    "webpack": "^5.104.1",
     "webpack-cli": "^4.7.2"
   },
   "dependencies": {
@@ -100,7 +100,7 @@
     "@microsoft/teamsfx-core": "workspace:*",
     "fs-extra": "^9.1.0",
     "underscore": "^1.12.1",
-    "validator": "^13.15.20",
+    "validator": "^13.15.22",
     "vscode-jsonrpc": "^6.0.0",
     "ws": "^8.18.3"
   },
